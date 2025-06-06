@@ -1,0 +1,15 @@
+{
+  "originHash" : "17a7a6e8f0f55bd11daf8bc393308161e596652ce61eff9e876f3f024b5855d2",
+  "pins" : [
+    {
+      "identity" : "coremanager",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:lamtalaa/CoreManager.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "9d70ba910cdf7f8f89030fc43a05e4a14282c379"
+      }
+    }
+  ],
+  "version" : 3
+}
